@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132635898738",
+    "project_id": "social-cfb64",
+    "storage_bucket": "social-cfb64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132635898738:android:46432c0c015fbc83fd23eb",
+        "android_client_info": {
+          "package_name": "com.flutter.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132635898738-n083tk08oo5v3k72cs49i98uc84cqfma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOwG43Y_wL4rp_jJJpzAI2-6CaECdI7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132635898738-n083tk08oo5v3k72cs49i98uc84cqfma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
